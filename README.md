@@ -5,3 +5,4 @@ A collection of reusable skills for Grok Bot agents, in the Agent Skills format 
 ## Skills
 
 - [repo-maintenance](repo-maintenance/SKILL.md): update, review (trivy + zizmor), merge and deploy-check dependency PRs.
+- [company-research](company-research/SKILL.md): find, monitor and analyse information about listed companies and funds (sources and method, no specific companies).
