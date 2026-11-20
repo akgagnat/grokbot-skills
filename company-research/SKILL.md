@@ -64,11 +64,11 @@ Generisk oppskrift for å hente inn og analysere selskaps- og fondsinformasjon f
 
 ## 5. Framgangsmåte – fond og gjennomlysning (look-through)
 1. Hent faktaark/månedsrapport: topp-10, sektor- og landfordeling, løpende kostnader, referanseindeks.
-2. Indirekte eksponering: beholdningens andel av fondet × verdien av fondsandelen = anslått beløp. Oppgi dato for beholdningslisten og hvor stor del av fondet som er dekket (f.eks. topp-10 = x %).
+2. Indirekte eksponering: beholdningens andel av fondet × verdien av fondsandelene = anslått beløp. Oppgi dato for beholdningslisten og hvor stor del av fondet som er dekket (f.eks. topp-10 = x %).
 3. Slå sammen på tvers av fond og direkte aksjer for å finne overlapp og konsentrasjon.
 4. Notér rating (stjerner, Medalist, bærekraft) med as-of-dato; sammenlign mot forrige registrering og flagg endringer.
 
 ## 6. Leveranse
 - Det viktigste først i én–to setninger, deretter punkter med tall og lenke.
 - Rund av fornuftig, og ta alltid med valuta og periode.
-- Lengre analyser med tabeller egner seg som side/rapport; løpende varsler holdes kort.
+- Lengre analyser med tabeller egner seg som side/rapport; løpende varsler holdes korte.
